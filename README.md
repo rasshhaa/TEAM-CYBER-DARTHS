@@ -76,7 +76,7 @@ PhishHunt-Cybersecurity-Game
 │   └── login.js                   # JavaScript for login functionality
 
 ├── Contents - gamer6.html          # Folder for individual game files
-│   ├── escapethehacker folder(all files)  # THE BLACKOUT PROTOCOL
+│   ├── escapethehacker:Level.html,level2.html...level7.html # THE BLACKOUT PROTOCOL
 │   ├── dataheist.html             # Cyber Escape: The Data Heist game
 │   ├── canyouescape.html          # Cyber Lockdown Escape Room game
 │   ├── textortrap.html            # Text or Trap game
